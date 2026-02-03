@@ -30,7 +30,7 @@
       "owner": "platformio",
       "version": "~1.10810.0"
     },
-    "toolchain-timsp430": {
+    "toolchain-timsp430-gcc": {
       "type": "toolchain",
       "owner": "platformio",
       "version": "~1.90301.0"
